@@ -6,17 +6,26 @@ permalink: /webography/
 
 
 ### Authors and books
+
 An Open Lab-Notebook Experiment by Arthur Charpentier : [https://freakonometrics.hypotheses.org/](https://freakonometrics.hypotheses.org/)    /   [https://freakonometrics.github.io/](https://freakonometrics.github.io/)
 
 Yihui Xie, J. J. Allaire, Garrett Grolemund "R Markdown: The Definitive Guide": [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
 
 Yihui Xie, Amber Thomas, Alison Presmanes Hill "Creating Websites with R Markdown" [https://bookdown.org/yihui/blogdown/](https://bookdown.org/yihui/blogdown/)
 
-Yihui Xie bookdown "Authoring Books and Technical Documents with R Markdown": https://bookdown.org/yihui/bookdown/
+Yihui Xie bookdown "Authoring Books and Technical Documents with R Markdown": [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
 
 The Yoda of Silicon Valley : Donald Knuth, master of algorithms, reflects on 50 years of his opus-in-progress, “The Art of Computer Programming.” : [https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
 
 Introduction to Econometrics with R Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer 2018-12-19 : [https://www.econometrics-with-r.org/](https://www.econometrics-with-r.org/)
+
+Cours de C/C++ Christian Casteyde [http://casteyde.christian.free.fr/cpp/cours/online/book1.html](http://casteyde.christian.free.fr/cpp/cours/online/book1.html)
+
+R for Data Science by Garrett Grolemund and Hadley Wickham [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
+
+Joseph Larmarange, Introduction  à l’analyse d’enquêtes avec R et RStudio [http://larmarange.github.io/analyse-R/](http://larmarange.github.io/analyse-R/)
+
+Introduction à R et au tidyverse by Julien Barnier [https://juba.github.io/tidyverse/index.html](https://juba.github.io/tidyverse/index.html)
 
 ### Posts on blog
 
@@ -49,3 +58,11 @@ Dow Jones Stock Market Index (4/4): Trade Volume GARCH Model : [https://www.r-bl
 Papers with Code: A Fantastic GitHub Resource for Machine Learning [https://www.kdnuggets.com/2018/12/papers-with-code-fantastic-github-resource-machine-learning.html](https://www.kdnuggets.com/2018/12/papers-with-code-fantastic-github-resource-machine-learning.html) / [https://github.com/zziz/pwc](https://github.com/zziz/pwc)
 
 r2d3 - R Interface to D3 Visualizations [https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
+
+A shiny Web App from LEGO— truck + trailer By Sebastian Wolf [https://www.r-bloggers.com/a-shiny-web-app-from-lego-truck-trailer/](https://www.r-bloggers.com/a-shiny-web-app-from-lego-truck-trailer/) [https://github.com/zappingseb/biowarptruck](https://github.com/zappingseb/biowarptruck)
+
+Lecture slides: Real-World Data Science (Fraud Detection, Customer Churn & Predictive Maintenance) By Dr. Shirin Glander [https://www.slideshare.net/ShirinGlander/realworld-data-science-fraud-detection-customer-churn-predictive-maintenance](https://www.slideshare.net/ShirinGlander/realworld-data-science-fraud-detection-customer-churn-predictive-maintenance)
+
+Survival analisys with R by Joseph Rickert (on R views) [https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)
+
+STHDA : Statistical Tools For High-Throughput Data Analysis [http://www.sthda.com/french/](http://www.sthda.com/french/)

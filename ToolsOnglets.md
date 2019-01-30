@@ -54,3 +54,7 @@ Dash apps are rendered in the web browser. You can deploy your apps to servers a
 [https://plot.ly/products/dash/](https://plot.ly/products/dash/)
 
 [https://dash.plot.ly/introduction](https://dash.plot.ly/introduction)
+
+### Xarigan by yihui (for the love of manga)
+
+An R package for creating slideshows with remark.js through R Markdown. The package name xaringan comes from Sharingan, a dōjutsu in Naruto with two abilities: the "Eye of Insight" and the "Eye of Hypnotism". A presentation ninja should have these basic abilities, and I think remark.js may help you acquire these abilities, even if you are not a member of the Uchiha clan.
