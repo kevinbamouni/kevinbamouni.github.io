@@ -25,6 +25,11 @@ linkedin_username: kevin-cedric-bamouni
 
 # Build settings
 markdown: kramdown
+
+# pour activer la génération automatique de table of contents dans les fichiers markdown, visiblement cela marche sans donc facultatif
+# kramdown:
+#     parse_block_html: true
+
 theme: minima
 plugins:
   - jekyll-feed
