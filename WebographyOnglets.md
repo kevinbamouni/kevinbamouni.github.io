@@ -9,6 +9,8 @@ permalink: /webography/
 
 An Open Lab-Notebook Experiment by Arthur Charpentier : [https://freakonometrics.hypotheses.org/](https://freakonometrics.hypotheses.org/)    /   [https://freakonometrics.github.io/](https://freakonometrics.github.io/)
 
+Finance, Systematic investissement with R (author name unknow) [http://systematicinvestor.github.io/](http://systematicinvestor.github.io/) [https://github.com/systematicinvestor](https://github.com/systematicinvestor)
+
 Yihui Xie, J. J. Allaire, Garrett Grolemund "R Markdown: The Definitive Guide": [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
 
 Yihui Xie, Amber Thomas, Alison Presmanes Hill "Creating Websites with R Markdown" [https://bookdown.org/yihui/blogdown/](https://bookdown.org/yihui/blogdown/)
