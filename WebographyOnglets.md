@@ -68,3 +68,5 @@ Lecture slides: Real-World Data Science (Fraud Detection, Customer Churn & Predi
 Survival analisys with R by Joseph Rickert (on R views) [https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)
 
 STHDA : Statistical Tools For High-Throughput Data Analysis [http://www.sthda.com/french/](http://www.sthda.com/french/)
+
+PaperswithCode "The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables." [https://paperswithcode.com/](https://paperswithcode.com/)
