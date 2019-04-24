@@ -58,3 +58,14 @@ Dash apps are rendered in the web browser. You can deploy your apps to servers a
 ### Xarigan by yihui (for the love of manga)
 
 An R package for creating slideshows with remark.js through R Markdown. The package name xaringan comes from Sharingan, a dōjutsu in Naruto with two abilities: the "Eye of Insight" and the "Eye of Hypnotism". A presentation ninja should have these basic abilities, and I think remark.js may help you acquire these abilities, even if you are not a member of the Uchiha clan.
+
+### Mathpix
+
+Convert images to LaTeX
+Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
+
+### Pycharm
+EDI python 
+
+### Pyqt5 and QtDesigner
+Python tools to create applications with GUI.
