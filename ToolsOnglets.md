@@ -69,3 +69,23 @@ EDI python
 
 ### Pyqt5 and QtDesigner
 Python tools to create applications with GUI.
+
+
+### Sourcetree
+A free Git client for Windows and Mac
+Sourcetree simplifies how you interact with your Git repositories so you can focus on coding. Visualize and manage your repositories through Sourcetree's simple Git GUI.
+
+### git-xltrail: Git extension
+git-xltrail is a Git extension. It makes commands like git diff work for VBA and it supports proper VBA merging so you can resolve merge conflicts right within the VBA editor (see screenshot). It also works together with Atlassian's highly popular SourceTree application to show you VBA diffs the way you would expect them, see
+
+
+### xlwings: Python for Excel
+
+xlwings allows you to leverage the power of Python from and with Excel:
+
+- Automate Excel from Python e.g. to produce reports or to interact with Jupyter notebooks.
+- Write macros in Python that you can run from buttons in Excel, e.g. to load in data from a database or an external API.
+- Write UDFs (user defined functions) and leverage the power from e.g. NumPy, Pandas and machine learning libraries.
+- Remote control Excel e.g. on a Bloomberg terminal or Windows Server via the REST API.
+
+Everything works on Windows and macOS except for UDFs (Windows only). Note that xlwings requires a working installation of Microsoft Excel.
